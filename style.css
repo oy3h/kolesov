@@ -5,7 +5,7 @@ body {
 .resaize {
 	background-color: white;
 	width: 960px;
-	margin: 1% 15% 1% 20%;
+	margin: 20px auto;
 }
 
 .blue-line {
@@ -20,13 +20,13 @@ body {
 
 .logo {
 	float:left;
-	width: 50%;
+	width: 480px;
 }
 
 .logo_img {
 	float: right;
-	margin-right: 3%;
-	margin-bottom: 3%;
+	margin-right: 20px;
+	margin-bottom: 15px;
 }
 
 .header_text {
@@ -55,7 +55,7 @@ body {
 	color: #023876;
 }
 
-.right_text {
+.right_menu {
 	color: white;
 	background-color: #023876;
 	padding: 8px;
@@ -63,12 +63,12 @@ body {
 }
 
 
-.content_link {
+.menu {
 	list-style-type: none;
 	
 }
 
-#content_link {
+.content_link {
 	color: #0364D3;
 	font-size: 20px;
 	line-height: 30px;
