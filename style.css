@@ -51,8 +51,9 @@ body {
 
 .right_content {
 	float: right;
-	margin: 20px 0px 50px 15px;
+	margin-top: 20px;
 	color: #023876;
+	width: 310px;
 }
 
 .right_menu {
@@ -75,12 +76,17 @@ body {
 }
 
 .content_text {
-	margin: 20px 5px 100px 0px;
+	margin-top: 20px;
+	width: 600px;
 }
 
 .content_text_top {
 	color: #023876;
 	font-size: 26px;
+}
+
+.footer {
+	margin-top: 80px;
 }
 
 .bottom-text {
