@@ -1,6 +1,8 @@
 body {
 	background-image: url(img/fon.jpg);
+	font-family: 13/18px Arial, Helvetica;
 }
+
 
 .resaize {
 	background-color: white;
@@ -21,6 +23,9 @@ body {
 .logo {
 	float:left;
 	width: 480px;
+	text-decoration: none;
+	color: black;
+	display: block;
 }
 
 .logo_img {
@@ -33,7 +38,7 @@ body {
 	float: left;
 	color: #023876;
 	font-size: 28px;
-	
+	text-decoration: none;
 }
 
 .header_text_big {
@@ -73,6 +78,7 @@ body {
 	color: #0364D3;
 	font-size: 20px;
 	line-height: 30px;
+	text-transform: uppercase;
 }
 
 .content_text {
